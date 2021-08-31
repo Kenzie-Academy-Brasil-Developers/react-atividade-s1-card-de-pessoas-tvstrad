@@ -1,0 +1,16 @@
+.introCard {
+  margin: 1rem;
+  padding: 2em;
+  background-color: #3a1772;
+  border-radius: 8px;
+  border: 2px solid #f1f1f1;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.introCard__name {
+  font-size: larger;
+}
