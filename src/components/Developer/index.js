@@ -4,7 +4,7 @@ function IntroCard({ name, age, country }) {
   return (
     <div className="introCard">
       <span>
-        <p class="introCard__name"> Dev : {name}</p>
+        <p className="introCard__name"> Dev : {name}</p>
       </span>
       <span>
         <p>Idade: {age} </p>
